@@ -1,1 +1,0 @@
-import{j as r}from"./index-DO5u49Z-.js";import{r as e}from"./react-vendor-rw3WIpbI.js";const n=e.createContext(null);function t({scrollRef:e,children:t}){return r.jsx(n.Provider,{value:e,children:t})}function o(){return e.useContext(n)}export{t as M,o as u};
