@@ -1,1 +1,0 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/artsky-dev/sw.js', { scope: '/artsky-dev/' })})}
