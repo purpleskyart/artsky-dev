@@ -1,0 +1,1 @@
+import{j as e}from"./index-DbU-ypRV.js";import{b as r}from"./react-vendor-mwOGWweJ.js";const n=r.createContext(null);function t({scrollElement:r,children:t}){return e.jsx(n.Provider,{value:r,children:t})}function o(){return r.useContext(n)}export{t as M,o as u};
