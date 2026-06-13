@@ -1,0 +1,1 @@
+function r(r,t){const e=[],o=[],s=[];let a=0;for(let n=0;n<r;n++){o[n]=a;const r=Math.max(1,t(n));for(let t=0;t<r;t++)e.push({cardIndex:n,mediaIndex:t});s[n]=a+r-1,a+=r}return{focusTargets:e,firstFocusIndexForCard:o,lastFocusIndexForCard:s}}export{r as b};
