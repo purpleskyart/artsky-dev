@@ -1,1 +1,0 @@
-function n(){if("undefined"==typeof window)return 0;const n=window.visualViewport;return n?Math.max(0,Math.round(window.innerHeight-(n.offsetTop+n.height))):0}function t(){return n()>72}export{n as g,t as i};
